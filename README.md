@@ -63,12 +63,10 @@ I enjoy learning, building, and solving real-world problems with clean and effic
 
 ### 📊 My GitHub Language Stats:
 
-> 📌 **To show this chart, make sure your repos are public and have code in them.**
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivkamen&layout=compact&langs_count=10)
 
-> 🔁 Replace `YourGitHubUsername` with your GitHub username.
 
 ---
 
-Thanks for visiting! Feel free to explore my projects 😊
