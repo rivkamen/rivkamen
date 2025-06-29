@@ -1,31 +1,74 @@
 ## 👋 Welcome to my GitHub profile!
 
-I'm a software developer who loves clean code, problem solving, and building practical tools.  
-Here you'll find personal projects, practice challenges, and open-source contributions.
+I'm a passionate full stack software developer with experience in web development, backend systems, and modern technologies.  
+I enjoy learning, building, and solving real-world problems with clean and efficient code.
 
 ---
 
-### 🔧 Technologies I work with:
+### 🔧 Technical Skills
 
-- **Front-end:**  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+#### 🖥️ Programming Languages:
+- Java (including Java 8, J2EE, JSP)
+- .NET Core 8 (C#)
+- Python
+- JavaScript / TypeScript
+- Node.js
+- C / C++
 
-- **Back-end:**  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-  ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+#### 🌐 Front-End & Full Stack Development:
+- Angular
+- React
+- ASP.NET
+- HTML5 / CSS5
+- JavaScript / TypeScript
 
-- **Databases:**  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+#### 🗄️ Databases:
+- SQL Server
+- MySQL
+- MongoDB
 
-- **Other Tools:**  
-  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-  ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+#### 🧠 Computer Science:
+- Algorithms & Data Structures
+- Graph Theory
+- Operating Systems
+- System Analysis
+- Design Patterns
+- OOP
+- Assembly
+- UNIX
+
+#### 🧠 AI / ML:
+- Machine Learning
+- Deep Learning
+- Computer Vision
+
+#### ☁️ Tools & Platforms:
+- Git / GitHub
+- AWS
+- Jupyter
+- Visual Studio / VS Code / Eclipse / PyCharm
+
+#### 🖥️ Operating Systems:
+- Windows
+- Linux
 
 ---
 
-### 🌱 Currently learning:
+### 🌱 Currently Learning:
+- Redux Toolkit for state management
+- Server security and deployment best practices
+- Full CI/CD integration for modern web apps
 
-- Improving React perfor
+---
+
+### 📊 My GitHub Language Stats:
+
+> 📌 **To show this chart, make sure your repos are public and have code in them.**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivkamen&layout=compact&langs_count=10)
+
+> 🔁 Replace `YourGitHubUsername` with your GitHub username.
+
+---
+
+Thanks for visiting! Feel free to explore my projects 😊
