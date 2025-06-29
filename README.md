@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rivka</h1>
-<h3 align="center">A passionate full stack software developer with experience in modern technologies, databases, and intelligent systems. I love learning, solving problems, and creating useful tools. I'm always looking to grow, collaborate, and build meaningful software.</h3>
+## 👋 Welcome to my GitHub profile!
+
+I'm a passionate full stack software developer with experience in web development, backend systems, and modern technologies.  
+I enjoy learning, building, and solving real-world problems with clean and efficient code.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rivkamen&label=Profile%20views&color=0e75b6&style=flat" alt="rut-git" />
+  <img src="https://komarev.com/ghpvc/?username=rivkamen&label=Profile%20views&color=0e75b6&style=flat" alt="rivkamen" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rivkamen&theme=onedark" alt="rut-git" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rivkamen&theme=onedark" alt="rivkamen" />
   </a>
 </p>
 
@@ -123,9 +125,9 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rut-git&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivkamen&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rut-git&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rivkamen&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rut-git&theme=tokyonight" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rivkamen&theme=tokyonight" alt="GitHub Streak" /></p>
