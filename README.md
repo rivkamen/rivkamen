@@ -3,15 +3,6 @@
 I'm a passionate full stack software developer with experience in web development, backend systems, and modern technologies.  
 I enjoy learning, building, and solving real-world problems with clean and efficient code.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rivkamen&label=Profile%20views&color=0e75b6&style=flat" alt="rivkamen" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rivkamen&theme=onedark" alt="rivkamen" />
-  </a>
-</p>
 ---
 
 ### 🧠 Technical Skills & Technologies
